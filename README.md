@@ -1,5 +1,5 @@
 # Bank Account Management System
-This project is designed to create a simulation of a straightforward bank account management system, comprising two primary components: the bank account details, which include the account holder's name and account type (such as Checking Account, Savings Account, and Interest-Earning Deposit Account), and the bank account manager, which facilitates three key operations: depositing funds, withdrawing money, and checking the account balance.
+This project (Gold Bank.) is designed to create a simulation of a straightforward bank account management system, comprising two primary components: the bank account details, which include the account holder's name and account type (such as Checking Account, Savings Account, and Interest-Earning Deposit Account), and the bank account manager, which facilitates three key operations: depositing funds, withdrawing money, and checking the account balance.
 ## Instructions
 
 To use the website, follow these steps:
